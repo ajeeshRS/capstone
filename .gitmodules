@@ -4,3 +4,6 @@
 [submodule "forum-program"]
 	path = forum-program
 	url = https://github.com/SolanaPulse/forum-program.git
+[submodule "voting-program"]
+	path = voting-program
+	url = https://github.com/SolanaPulse/voting-program.git
