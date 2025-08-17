@@ -1,3 +1,6 @@
 [submodule "onboarding"]
 	path = onboarding
 	url = https://github.com/SolanaPulse/onboarding.git
+[submodule "forum-program"]
+	path = forum-program
+	url = https://github.com/SolanaPulse/forum-program.git
