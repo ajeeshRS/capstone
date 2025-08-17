@@ -7,3 +7,6 @@
 [submodule "voting-program"]
 	path = voting-program
 	url = https://github.com/SolanaPulse/voting-program.git
+[submodule "token-program"]
+	path = token-program
+	url = https://github.com/SolanaPulse/token-program.git
